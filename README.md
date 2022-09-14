@@ -1,4 +1,4 @@
-# Google Professional Data Analytics Capstone Project By Justin Bautista
+# Google Professional Data Analytics Capstone Project
 ## I.	Introduction
 
 In this case study, I am taking the role of a data analyst for Cyclistic, a fictional bike-share company based in Chicago. 
